@@ -1,5 +1,13 @@
+
 .container-fluid {
     margin-right: auto;
     margin-left: auto;
     max-width: 300px;
+    padding: 2rem;
+    margin: 3rem;
     }
+
+
+.p {
+    color: #333;
+}
